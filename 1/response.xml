@@ -1,0 +1,6 @@
+<Response>
+    <GetDigits action="http://www.example.com/response/tree/" method="POST" numDigits="1" retries="1" timeout="7">
+        <Speak>Press 1 for English. Press 2 for French. Press 3 for Russian</Speak>
+    </GetDigits>
+    <Speak>Sorry, I didn't catch that. Please hangup and try again later.</Speak>
+</Response>
