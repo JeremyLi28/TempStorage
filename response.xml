@@ -1,5 +1,5 @@
 <Response>
-    <GetDigits action="https://raw.githubusercontent.com/JeremyLi28/TempStorage/master/1/response.xml" method="GET" timeout="7" numDigits="1" retries="1">
+    <GetDigits action="https://raw.githubusercontent.com/JeremyLi28/TempStorage/master/1/response.xml" method="POST" timeout="7" numDigits="1" retries="1">
         <Speak>
             Welcome to the Plivo IVR Demo App. Press 1 to listen to a pre recorded text in different languages. Press 2 to listen to a song.
         </Speak>
