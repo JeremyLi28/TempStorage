@@ -1,7 +1,7 @@
 <Response>
     <GetDigits action="https://beta.loanspq.com/voice/v1/services/ivr" method="POST" timeout="7" numDigits="1" retries="1">
         <Speak>
-            Welcome to the Banana. Press 5 to confirm.
+            Welcome to the Banana Voice. Press 5 to confirm.
         </Speak>
     </GetDigits>
     <Speak>
